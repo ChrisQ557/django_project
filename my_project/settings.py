@@ -29,7 +29,6 @@ DEBUG = False
 ALLOWED_HOSTS = ['my--project--hello--world-d1cdac5e38f7.herokuapp.com']
 =======
 ALLOWED_HOSTS = ['.herokuapp.com', '127.0.0.1']
->>>>>>> 2443fbaaa34df9083bf7fe597e37a9f42ef123f6
 
 
 # Application definition
